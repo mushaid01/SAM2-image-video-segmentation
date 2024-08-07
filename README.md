@@ -26,7 +26,7 @@ pip install opencv-python pandas numpy torch matplotlib
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/segment-anything-2.git
+    git clone https://github.com/mushaid01/segment-anything-2.git
     cd segment-anything-2
     ```
 
